@@ -1,12 +1,12 @@
 <img src="https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif" style="border-radius:30px" align="right" width="285px">
 
-## Hi There, Welcome to my Github profile :blush:👋
+## 👋Hi There, Welcome to my Github profile :blush:
 
-### <code> <font color="cyan">I'm Berke. I'm 24 year old Mechanical Engineer. </font></code>[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin]
+### <font color="cyan">I'm Berke. I'm 24 year old Mechanical Engineer. </font>[<img align="center" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin]
 
-- ### <pre style="border-radius:20px"> 👨‍💻 I want to be a <code>Front-end Developer.</code> </pre>
-- ### <pre style="border-radius:20px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20"/> I'm improving myself about React.</pre>
-- ### <pre style="border-radius:20px"> 🙋‍♂️ I'm candidate to be a Junior Front-end Developer!!! </pre>
+- ### 👨‍💻 I want to be a <code>Front-end Developer.</code> </pre>
+- ### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20"/> I'm improving myself about React.
+- ### 🙋‍♂️ I'm candidate to be a Junior Front-end Developer!!!
 
 <hr/>
 
@@ -29,8 +29,8 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=berkeergun&theme=highcontrast&show_icons=true" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeergun&layout=compact&theme=highcontrast" width="450" />
+<img src="https://github-readme-stats.vercel.app/api?username=berkeergun&theme=highcontrast&show_icons=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeergun&layout=compact&theme=highcontrast" width="400" />
 </div>
 
 [linkedin]: https://www.linkedin.com/in/berke-erg%C3%BCn-a57b36125/
