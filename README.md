@@ -25,8 +25,8 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=berkeergun&theme=highcontrast&show_icons=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeergun&layout=compact&theme=highcontrast" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=berkeergun&theme=highcontrast&show_icons=true" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeergun&layout=compact&theme=highcontrast" width="350" />
 </div>
 
 [linkedin]: https://www.linkedin.com/in/berke-erg%C3%BCn-a57b36125/
