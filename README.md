@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif" style="border-radius:30px" align="right" width="300px">
 
-### 👋Hi There, Welcome to my Github profile :blush:
+### 👋Hi There, Welcome to my Github profile:blush:
 
 #### <font color="cyan">I'm Berke. I'm 25 year old self taught <br/> <code>Front-end Developer / Mechanical Engineer</code></font>[<img align="center" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin]
 
