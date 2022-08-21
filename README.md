@@ -27,4 +27,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeergun&layout=compact&theme=highcontrast" width="300" />
 </div>
 
-[linkedin]: https://www.linkedin.com/in/berke-erg%C3%BCn-a57b36125/
+[linkedin]: https://www.linkedin.com/in/berkeergun/
