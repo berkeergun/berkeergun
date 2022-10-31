@@ -2,10 +2,10 @@
 
 ### 👋Hi There, Welcome to my Github profile:blush:
 
-#### <font color="cyan">I'm Berke. I'm 25 year old self taught <br/> <code>Front-end Developer / Mechanical Engineer</code></font>[<img align="center" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin]
+#### <font color="cyan">I'm Berke. I'm 25 year old self taught <br/> <code>Front End/Mobile Developer / Mechanical Engineer</code></font>[<img align="center" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin]
 
 - #### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20"/> I'm improving myself about React & React Native.
-- #### 🙋‍♂️ I'm candidate to be a Junior Front-end Developer!!!
+- #### 🙋‍♂️ I'm candidate to be a Junior Front End/Mobile Developer!!!
 
 <div align="center">
 
