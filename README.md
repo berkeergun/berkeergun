@@ -5,6 +5,7 @@
 #### <code>Front End/Mobile Developer</code> [<img align="center" style="width:20px;height:20px;" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"/>][linkedin]
 
 - #### <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20"/> I'm improving myself about React, React Native & Next.Js
+- #### 🔥 I'm willing to learn & ambitious.
 
 <div align="center">
 
